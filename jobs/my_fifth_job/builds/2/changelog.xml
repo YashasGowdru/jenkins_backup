@@ -1,0 +1,9 @@
+commit 2ac2334ffb69ad71eaa027b31be6618d69d3e2e2
+tree ddd48a1cf1a5b2ca4dc41d9fdaf4154453616030
+parent 44e2b68ea6ac480092b6315180ca169924b6ec95
+author YashasGowdru <35109052+YashasGowdru@users.noreply.github.com> 2022-11-27 09:26:02 +0530
+committer GitHub <noreply@github.com> 2022-11-27 09:26:02 +0530
+
+    Update even_odd.sh
+
+:100644 100644 a7879174aad0248565d33c9f3708d1c47108f0bd 513e6d39b05ac585546b55880a3f6927fef6556d M	even_odd.sh

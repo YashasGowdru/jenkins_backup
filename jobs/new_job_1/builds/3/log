@@ -1,0 +1,12 @@
+Started by user [8mha:////4C76b5ls73PYh2cKV6kJKh54sCxwFKeaXIRQCOjr0FSGAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL9ysTijMRiAMjQ5APBAAAA[0mYashas J
+Running as SYSTEM
+Building remotely on [8mha:////4LJyaobWc5a9uoyHvhVJOqlrsc+NczwhrDcQ7Rh2HxotAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/eKcxLJUQwA49mDyxQAAAA==[0mslave1 in workspace /home/jenkins_s1/workspace/new_job_1
+[new_job_1] $ /bin/sh -xe /tmp/jenkins2692758403438697687.sh
++ pwd
+/home/jenkins_s1/workspace/new_job_1
++ ls
+file1
++ touch file1
++ ls
+file1
+Finished: SUCCESS

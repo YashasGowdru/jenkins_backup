@@ -1,0 +1,9 @@
+commit de8df991e4bc86b239456666a49e9c0c63d23533
+tree 83db8d2b803acae229c80cb50f27fadc7acec2a5
+parent 2ac2334ffb69ad71eaa027b31be6618d69d3e2e2
+author YashasGowdru <35109052+YashasGowdru@users.noreply.github.com> 2022-11-27 18:47:56 +0530
+committer GitHub <noreply@github.com> 2022-11-27 18:47:56 +0530
+
+    Create mavenja.sh
+
+:000000 100644 0000000000000000000000000000000000000000 9d65baa5a3577cceb50bc98998c3e14d10507442 A	mavenja.sh

@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-11-30 05:59:24.322 UTC</timestamp>
+  <md5sum>19181aaeedf5e4922a0cd2f88c2ac5c5</md5sum>
+  <fileName>Credential id=slavesw name=jenkinsla/****** (slave two)</fileName>
+  <usages>
+    <entry>
+      <string>seconds pipeline</string>
+      <ranges>1-6,8-17,23-24</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1669982196518</timestamp>
+      <itemFullName>seconds pipeline</itemFullName>
+      <timestamp0>1669982111944</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670075945374</timestamp>
+      <nodeName>slave_swaroop2</nodeName>
+      <timestamp0>1670029522116</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

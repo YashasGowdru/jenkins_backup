@@ -1,0 +1,17 @@
+Started by user [8mha:////4C76b5ls73PYh2cKV6kJKh54sCxwFKeaXIRQCOjr0FSGAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL9ysTijMRiAMjQ5APBAAAA[0mYashas J
+Running as SYSTEM
+Building remotely on [8mha:////4LJyaobWc5a9uoyHvhVJOqlrsc+NczwhrDcQ7Rh2HxotAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/eKcxLJUQwA49mDyxQAAAA==[0mslave1 in workspace /home/jenkins_s1/workspace/my_second_job
+[my_second_job] $ /bin/sh -xe /tmp/jenkins11961569845635336105.sh
++ ls
++ pwd
+/home/jenkins_s1/workspace/my_second_job
++ cd ..
++ ls -l
+total 4
+drwxrwxr-x 2 jenkins_s1 jenkins_s1 4096 Nov 27 02:46 my_second_job
++ vi addi.sh
+Vim: Warning: Output is not to a terminal
+Vim: Warning: Input is not from a terminal
+[m[m[0m[H[2J[24;1H"addi.sh" [New][2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [0m[24;63H0,0-1[9CAll[1;1HBuild was aborted
+Aborted by [8mha:////4C76b5ls73PYh2cKV6kJKh54sCxwFKeaXIRQCOjr0FSGAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL9ysTijMRiAMjQ5APBAAAA[0mYashas J
+Finished: ABORTED

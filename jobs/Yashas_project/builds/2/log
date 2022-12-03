@@ -1,0 +1,8 @@
+Started by user [8mha:////4C76b5ls73PYh2cKV6kJKh54sCxwFKeaXIRQCOjr0FSGAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL9ysTijMRiAMjQ5APBAAAA[0mYashas J
+Running as SYSTEM
+Building remotely on [8mha:////4FmaDOSvVwo3fMCao5NdXemdmAKtjwSuylbKou2sA4t+AAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQifafSzJwUheLUorLUIgAFLvIoywAAAA==[0mBuild server (Build_server) in workspace /home/jenkins/workspace/Yashas_project
+[Yashas_project] $ /bin/sh -xe /tmp/jenkins10756161252346950016.sh
++ ls
++ pwd
+/home/jenkins/workspace/Yashas_project
+Finished: SUCCESS
